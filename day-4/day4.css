@@ -1,0 +1,27 @@
+.span{
+    width:70%;
+    height: 100px;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    color: white;
+}
+
+div{
+    width:70%;
+    height:100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
