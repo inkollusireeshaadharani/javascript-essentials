@@ -22,12 +22,12 @@ let cards=[
         status:"closed"
     },
     {
-        image:"https://static.wikia.nocookie.net/spiderman-films/images/4/4e/CaptainAmerica_AOU_character-art-poster.jpg/revision/latest/scale-to-width-down/2000?cb=20160507011012",
+        image:"https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
         value:3,
         status:"closed"
     },
     {
-        image:"https://static.wikia.nocookie.net/spiderman-films/images/4/4e/CaptainAmerica_AOU_character-art-poster.jpg/revision/latest/scale-to-width-down/2000?cb=20160507011012",
+        image:"https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
         value:3,
         status:"closed"
     },
@@ -42,12 +42,12 @@ let cards=[
         status:"closed"
     },
     {
-        image:"https://static.wikia.nocookie.net/headhuntersholosuite/images/6/68/Baby_Groot.jpg/revision/latest?cb=20170526164642",
+        image:"https://storage.googleapis.com/afs-prod/media/media:7fab4e9171784489a4bfb7d5b04421e6/1919.jpeg",
         value:5,
         status:"closed"
     },
     {
-        image:"https://static.wikia.nocookie.net/headhuntersholosuite/images/6/68/Baby_Groot.jpg/revision/latest?cb=20170526164642",
+        image:"https://storage.googleapis.com/afs-prod/media/media:7fab4e9171784489a4bfb7d5b04421e6/1919.jpeg",
         value:5,
         status:"closed"
     },
