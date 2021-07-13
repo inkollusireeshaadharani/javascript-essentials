@@ -4,8 +4,8 @@
 }
 
 .container{
-    width:70%;
-    margin-left: 15%;
+    width:80%;
+    margin-left: 10%;
     padding-top: 50px;
     padding-bottom: 50px;
     /* background-color: gray; */
@@ -34,7 +34,7 @@
 }
 
 .card{
-    height:230px;
+    height:201px;
     width:18%;
     background-color: red;
     margin-top: 20px;
@@ -42,7 +42,7 @@
 }
 
 .overlay{
-    height:230px;
+    height:201px;
     width:100%;
     background-color: gray;
 }
